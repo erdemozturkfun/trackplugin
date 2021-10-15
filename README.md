@@ -2,6 +2,9 @@
 
 ![GitHub top language](https://img.shields.io/github/languages/top/erdemozturkfun/trackplugin)
 
+![GitHub release (latest by date)](https://img.shields.io/github/downloads/erdemozturkfun/trackplugin/v1.5.0-beta/total)
+
+
 ## Are you trying to make a manhunt challenge or just playing KitPVP with no world border? Well then this plugin is for you!
 ##### WARNING: this plugin is in testing phase.
 
