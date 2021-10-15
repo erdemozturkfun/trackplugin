@@ -3,9 +3,6 @@ main: com.erdem.splugin.main
 version: 1.0
 api-version: 1.13
 commands:
-   weapon:
-      description: gives sword or axe.
-      usage: /<command>
    givetracker:
       description: gives compass
       usage: /<command>

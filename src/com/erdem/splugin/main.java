@@ -7,9 +7,9 @@ public class main extends JavaPlugin{
 	@Override
 	public void onEnable() {
 		this.getServer().getPluginManager().registerEvents(new compassClick(), this);
-		Weapons.init();
+		
 		this.getLogger().info("§aPlugin up and Running!");
-		this.getCommand("weapon").setExecutor(new commands());
+		
 		this.getCommand("givetracker").setExecutor(new tracktarget());
 		this.getCommand("track").setExecutor(new tracktarget());
 		
